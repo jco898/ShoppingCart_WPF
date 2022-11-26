@@ -1,0 +1,39 @@
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.exe
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.deps.json
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.runtimeconfig.json
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.runtimeconfig.dev.json
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.dll
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.pdb
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.csprojAssemblyReference.cache
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5_MarkupCompile.cache
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5_MarkupCompile.lref
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.g.resources
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.AssemblyInfoInputs.cache
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.AssemblyInfo.cs
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.csproj.CoreCompileInputs.cache
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.dll
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.pdb
+C:\Documents\Education\John Abbott College\Fall 2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.genruntimeconfig.cache
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.exe
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.deps.json
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.runtimeconfig.json
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.runtimeconfig.dev.json
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.dll
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\bin\Debug\netcoreapp3.1\Assignment5.pdb
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.csproj.AssemblyReference.cache
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5_MarkupCompile.cache
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5_MarkupCompile.lref
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.g.resources
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.AssemblyInfoInputs.cache
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.AssemblyInfo.cs
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.csproj.CoreCompileInputs.cache
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.dll
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.pdb
+C:\Documents\Education\John_Abbott_College\fall_2020\Programming III\Assignments\Assignment_5\Assignment5\Assignment5\obj\Debug\netcoreapp3.1\Assignment5.genruntimeconfig.cache
